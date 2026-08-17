@@ -73,3 +73,4 @@ print(f"AC Location        : {AC_LOCATION:.3f} c")
 print(f"Neutral Point      : {NEUTRAL_POINT:.3f} c")
 print(f"Static Margin      : {STATIC_MARGIN:.3f} c")
 print(f"Stability Status   : {STABILITY_STATUS}")
+
